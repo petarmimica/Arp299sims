@@ -1,4 +1,4 @@
-Introductions
+Introduction
 ===========================
 
 This document contains detailed instructions for reproducing the radio model of the source Arp 299-B AT1 used in the paper by S. Mattila, M. Perez-Torres, A. Efsthatiou, P. Mimica and others. The paper is titled "A dust-enshrouded tidal disruption event with a resolved radio jet in a galaxy merger" and can be found [here](http://science.sciencemag.org/content/early/2018/06/13/science.aao4669.full).
